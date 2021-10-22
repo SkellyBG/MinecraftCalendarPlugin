@@ -1,0 +1,5 @@
+name: MinecraftCalendar
+main: me.skellybg.minecraftcalendar.MinecraftCalendarPlugin
+author: SkellyBG
+version: 0.3.0
+api-version: 1.16
